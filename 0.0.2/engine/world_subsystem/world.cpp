@@ -1,8 +1,6 @@
 #include <iostream>
+#include "world.h"
 
-class World {
-public:
-    void simulatePhysics() {
+    void World::simulatePhysics() {
         std::cout << "Simulating World Physics...\n";
     }
-};

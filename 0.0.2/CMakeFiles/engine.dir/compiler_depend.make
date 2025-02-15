@@ -367,7 +367,7 @@ CMakeFiles/engine.dir/engine/core/engine.cpp.obj: engine/core/engine.cpp \
   C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/unicodeobject.h \
   C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/warnings.h \
   C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/weakrefobject.h \
-  engine/world_subsystem/world.cpp
+  engine/world_subsystem/world.h
 
 CMakeFiles/engine.dir/engine/world_subsystem/world.cpp.obj: engine/world_subsystem/world.cpp \
   C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward/binders.h \
@@ -1245,5 +1245,7 @@ C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/tupleobject.h:
 C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/typeslots.h:
 
 C:/Users/Hollis/AppData/Local/Programs/Python/Python311/include/unicodeobject.h:
+
+engine/world_subsystem/world.h:
 
 engine/world_subsystem/world.cpp:

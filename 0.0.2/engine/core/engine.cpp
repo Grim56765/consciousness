@@ -1,6 +1,6 @@
 #include <iostream>
 #include <pybind11/embed.h>
-#include "../world_subsystem/world.cpp"  // Use a header file instead of including world.cpp directly
+#include "C:\\Users\\Hollis\\Documents\\projects\\conciousness\\0.0.2\\engine\\world_subsystem\\world.h"  // Use a header file instead of including world.cpp directly
 
 namespace py = pybind11;
 
